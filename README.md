@@ -22,7 +22,7 @@
 	- Dart setup
 	- Why we use void main function in dart
 	- Why we use void in dart language
-	- Literals, Variables and types of variable
+	- Literals, Variables and types of variable (`int`, `double`, `String`, bool) and Types o
 	- Dynamic and Var
 	- Dart Operators Additive, Mathematical, Assignment, Unary & Relational
 3. 
