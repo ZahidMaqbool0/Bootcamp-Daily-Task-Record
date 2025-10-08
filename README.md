@@ -9,5 +9,6 @@
 5. Git and GitHub Basic Cover
 # Day 2
 1. Git and GitHub Explore and command cover
-2. git and GitHub commands learn and perforam practical examples
-3. 
+2. git and GitHub commands learn and perform practical examples
+3. on GitHub one  project uplod using CMD command
+4. explore git
