@@ -3,4 +3,7 @@
 
 # Day 1
 1. obsidian 
-2. 
+2. obsidian Community plugin install
+3. Git and GitHub Basic Cover
+# Day 2
+1. 
