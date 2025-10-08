@@ -25,7 +25,7 @@
 	- Literals, Variables and Data Types (`int`, `double`, `String`, `bool`) and Types of Variables (`var`, `final`, `const`, `dynamic`, `late`)
 	- Understanding Dynamic and Var
 	- Understanding final and const
-	- Difrence 
+	- Difference between const and final, dynamic and var 
 	- Dart Operators Additive (`+`,`-`), Mathematical (`Basic Math` `operator` `*, /, %, ~/`), Assignment (`=, +=, -=, *=, /=, ~/=`), Unary & Relational (`<, >, >=, <=`)
 	- Strings Explained: Single-Line, Multiline, escape characters & Interpolation
 	- How to index works in string
