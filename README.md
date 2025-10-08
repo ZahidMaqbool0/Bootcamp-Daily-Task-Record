@@ -12,7 +12,7 @@
 1. Git and GitHub Explore and command cover
 2. Git and GitHub commands learn and perform practical examples
 3. On GitHub one  project uplod using CMD command
-4. Explore the GitHub De
+4. Explore the GitHub Desktop
 5. Explore GitHub in obsidian
 6. Connect GitHub obsidian and uplod daily task 
 7. Perform Git, GitHub, Obsidian Git practical example 
