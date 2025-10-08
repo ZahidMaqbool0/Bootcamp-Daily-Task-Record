@@ -20,5 +20,6 @@
 1. Practice Obsidian Git (Create a new obsidian vault and connect GitHub, and perform git settings automatic)
 2. Dart Overview (Introduction)
 	- Dart setup
-	- Dart void main
+	- Why we use void main function in dart
+	- what is void 
 3. 
