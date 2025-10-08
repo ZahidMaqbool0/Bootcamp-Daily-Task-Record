@@ -24,5 +24,5 @@
 	- Why we use void in dart language
 	- Literals, Variables and types of variable
 	- Dynamic and Var
-	- 
+	- Dart Operators Additive, Mathematical, Assignment, Unary & Relational
 3. 
