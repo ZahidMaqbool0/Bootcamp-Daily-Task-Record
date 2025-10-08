@@ -2,17 +2,18 @@
 🚀 Daily Bootcamp progress — Learning, Coding, and Growing every day.
 
 # Day 1
-1. obsidian install, and way we use.
+1. Obsidian install, and way we use.
 2. Cover Markdown language and format.
-3. obsidian custom and Community plugin explore
-4. explore community plugin calendar
-5. create a one project weekly task management plan 
+3. Obsidian custom and Community plugin explore
+4. Explore calendar community plugin
+5. Create a one project weekly task management plan 
 6. Git and GitHub Basic Cover
 # Day 2
 1. Git and GitHub Explore and command cover
-2. git and GitHub commands learn and perform practical examples
-3. on GitHub one  project uplod using CMD command
-4. explore GitHub in obsidian
-5. connect GitHub obsidian and uplod daily task 
-6. perform Git, GitHub, Obsidian Git practical example 
+2. Git and GitHub commands learn and perform practical examples
+3. On GitHub one  project uplod using CMD command
+4. Explore the GitHub De
+5. Explore GitHub in obsidian
+6. Connect GitHub obsidian and uplod daily task 
+7. Perform Git, GitHub, Obsidian Git practical example 
 # Day 3
