@@ -21,5 +21,6 @@
 2. Dart Overview (Introduction)
 	- Dart setup
 	- Why we use void main function in dart
-	- what is void 
+	- Why we use void in dart language
+	- 
 3. 
