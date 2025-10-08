@@ -17,4 +17,5 @@
 6. Connect GitHub obsidian and uplod daily task 
 7. Perform Git, GitHub, Obsidian Git practical example 
 # Day 3
-1. Practice Obsidian Git (Create a new obsidian vault and )
+1. Practice Obsidian Git (Create a new obsidian vault and connect GitHub, and perform git settings automatic)
+2. 
