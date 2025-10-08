@@ -13,4 +13,5 @@
 3. on GitHub one  project uplod using CMD command
 4. explore GitHub in obsidian
 5. connect GitHub obsidian and uplod daily task 
-6. perfor
+6. perform Git, GitHub, Obsidian Git practical example 
+# Day 3
