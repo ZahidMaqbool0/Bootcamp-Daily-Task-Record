@@ -11,4 +11,6 @@
 1. Git and GitHub Explore and command cover
 2. git and GitHub commands learn and perform practical examples
 3. on GitHub one  project uplod using CMD command
-4. explore git
+4. explore GitHub in obsidian
+5. connect GitHub obsidian and uplod daily task 
+6. perfor
