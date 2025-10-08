@@ -23,4 +23,6 @@
 	- Why we use void main function in dart
 	- Why we use void in dart language
 	- Literals, Variables and types of variable
+	- Dynamic and Var
+	- 
 3. 
