@@ -24,7 +24,7 @@
 	- Why we use void in dart language
 	- Literals, Variables and Data Types (`int`, `double`, `String`, `bool`) and Types of Variables (`var`, `final`, `const`, `dynamic`, `late`)
 	- Understanding Dynamic and Var
-	- Understanding final vs const
-	- Dart Operators Additive (`+`,`-`), Mathematical (`Basic Math` `operator` `*, /, %, ~/`), Assignment (`=, +=, -=, *=, /=, ~/=`), Unary & Relational (<, >, >=, <=, )
+	- Understanding final and const
+	- Dart Operators Additive (`+`,`-`), Mathematical (`Basic Math` `operator` `*, /, %, ~/`), Assignment (`=, +=, -=, *=, /=, ~/=`), Unary & Relational (`<, >, >=, <=`)
 	- 
 3. 
