@@ -8,4 +8,6 @@
 4. create a one project weekly task management plan 
 5. Git and GitHub Basic Cover
 # Day 2
-1. 
+1. Git and GitHub Explore and command cover
+2. git and GitHub commands learn and perforam practical examples
+3. 
