@@ -3,7 +3,9 @@
 
 # Day 1
 1. obsidian 
-2. obsidian Community plugin install
-3. Git and GitHub Basic Cover
+2. obsidian custom and Community plugin explore
+3. explore community plugin calendar
+4. create a one p 
+5. Git and GitHub Basic Cover
 # Day 2
 1. 
