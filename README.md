@@ -30,4 +30,5 @@
 	- Strings Explained: Single-Line, Multiline, escape characters & Interpolation
 	- How to index works in string
 	- Conditional Statements in Dart: if, else, else if & Ternary Operator
+	- Lists in Dart
 3. 
