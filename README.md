@@ -26,5 +26,6 @@
 	- Understanding Dynamic and Var
 	- Understanding final and const
 	- Dart Operators Additive (`+`,`-`), Mathematical (`Basic Math` `operator` `*, /, %, ~/`), Assignment (`=, +=, -=, *=, /=, ~/=`), Unary & Relational (`<, >, >=, <=`)
+	- Strings Explained: Single-Line, Multiline, escape characters & Interpolation
 	- 
 3. 
