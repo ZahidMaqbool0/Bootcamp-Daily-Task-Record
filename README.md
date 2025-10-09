@@ -34,4 +34,5 @@
 	- Lists, Set, Map in Dart
 # Day 4
 1. Practice List and Map, Set,  
-	List Practice Question
+	- **List Practice Question**
+	1. Create a list of 5 fruit names and print them.
