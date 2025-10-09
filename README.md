@@ -35,17 +35,11 @@
 # Day 4
 1. Practice List and Map, Set,  
 	- **List Practice Question**
+	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
-	2. ### 🧩 **Beginner Level**
-
-2. Create a list of 5 fruit names and print them.
-    
-3. Store 5 numbers in a list and print the sum of all numbers.
-    
-4. Update one element in the list (e.g., change the value at index 2).
-    
-
----
+	2. Create a list of 5 fruit names and print them.
+    3. Store 5 numbers in a list and print the sum of all numbers.
+    4. Update one element in the list (e.g., change the value at index 2).
 
 ### 🚀 **Advanced Level**
 
