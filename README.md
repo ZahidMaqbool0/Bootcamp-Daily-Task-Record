@@ -34,6 +34,8 @@
 	- Lists, Set, Map in Dart
 # Day 4
 1. Functions in Dart: Nested, Arrow Functions, and Parameter Types 
+	- **Types of parameter** 
+	1. 
 2. Practice List and Map, Set,  
 	- **List Practice Question**
 	- **Beginner Level**
