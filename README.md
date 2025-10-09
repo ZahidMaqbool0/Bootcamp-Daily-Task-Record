@@ -41,7 +41,7 @@
     4. Default value parameter
     5. Named Required Parameter
 2. Function Data Type, Higher-Order Functions, and Anonymous
-3. 
+3. Break and Continue keyword
 4. Practice List
 	- **List Practice Question**
 	- **Beginner Level**
