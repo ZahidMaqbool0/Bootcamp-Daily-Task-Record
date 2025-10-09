@@ -40,7 +40,7 @@
 	3. Optional named parameter `{}` 
     4. Default value parameter
     5. Named Required Parameter
-2. Practice List and Map, Set,  
+2. Practice List
 	- **List Practice Question**
 	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
@@ -48,6 +48,5 @@
 		- Print using for Each Loop
 		- print using For In Loop
     3. Update one element in the list (e.g., change the value at index 2).
-	- **Advanced Level**
-	1. Remove duplicate values from a list.
-3. 
+	4. Remove duplicate values from a list.
+
