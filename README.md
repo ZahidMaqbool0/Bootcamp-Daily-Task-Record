@@ -39,6 +39,7 @@
     2. Optional positional parameter `[]`
 	3. Optional named parameter `{}` 
     4. Default value parameter
+    5. Named Required Parameter
 2. Practice List and Map, Set,  
 	- **List Practice Question**
 	- **Beginner Level**
