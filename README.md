@@ -36,3 +36,31 @@
 1. Practice List and Map, Set,  
 	- **List Practice Question**
 	1. Create a list of 5 fruit names and print them.
+	2. ### 🧩 **Beginner Level**
+
+2. Create a list of 5 fruit names and print them.
+    
+3. Store 5 numbers in a list and print the sum of all numbers.
+    
+4. Update one element in the list (e.g., change the value at index 2).
+    
+
+---
+
+### 🚀 **Advanced Level**
+
+4. Remove duplicate values from a list.
+    
+5. Find the **largest and smallest number** in a list.
+    
+6. Print a list in reverse order.
+    
+7. Extract all even numbers from a list and store them in a new list.
+    
+8. Merge two lists into one new list.
+    
+9. Check if a specific value exists in a list.
+    
+10. Multiply each element of a list by `2` and print the new list.
+    
+11. Delete the elements at the 3rd and 4th indexes from a list.
