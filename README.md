@@ -35,7 +35,7 @@
 # Day 4
 1. Functions in Dart: Nested, Arrow Functions, and Parameter Types 
 	> **Types of parameter** 
-	1. Required parameter
+	1. Required parameter / positional parameter 
     2. Optional positional parameter `[]`
 	3. Optional named parameter `{}` 
     4. Default value parameter
