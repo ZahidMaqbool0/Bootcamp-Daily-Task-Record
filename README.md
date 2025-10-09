@@ -50,10 +50,4 @@
     3. Update one element in the list (e.g., change the value at index 2).
 	- **Advanced Level**
 	1. Remove duplicate values from a list.
-    2. Find the **largest and smallest number** in a list.
-    3. Print a list in reverse order.
-    4. Extract all even numbers from a list and store them in a new list.
-    5. Merge two lists into one new list.
-    6. Check if a specific value exists in a list.
-    7. Multiply each element of a list by `2` and print the new list.
-    8. Delete the elements at the 3rd and 4th indexes from a list.
+3. 
