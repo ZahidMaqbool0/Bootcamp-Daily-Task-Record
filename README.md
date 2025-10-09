@@ -44,7 +44,6 @@
 3. Break and Continue keyword
 4. Practice List
 	- **List Practice Question**
-	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
     2. Store 5 numbers in a list and print the sum of all numbers.
 		- Print using for Each Loop
