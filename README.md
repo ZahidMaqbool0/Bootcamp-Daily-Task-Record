@@ -41,7 +41,8 @@
     4. Default value parameter
     5. Named Required Parameter
 2. Function Data Type, Higher-Order Functions, and Anonymous
-3. Practice List
+3. 
+4. Practice List
 	- **List Practice Question**
 	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
