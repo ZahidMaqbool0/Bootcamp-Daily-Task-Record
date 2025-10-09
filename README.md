@@ -38,7 +38,8 @@
 	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
     2. Store 5 numbers in a list and print the sum of all numbers.
-    3. Update one element in the list (e.g., change the value at index 2).
+	- 
+    1. Update one element in the list (e.g., change the value at index 2).
 	- **Advanced Level**
 	1. Remove duplicate values from a list.
     2. Find the **largest and smallest number** in a list.
