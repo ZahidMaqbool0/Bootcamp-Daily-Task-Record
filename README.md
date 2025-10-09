@@ -35,8 +35,12 @@
 # Day 4
 1. Functions in Dart: Nested, Arrow Functions, and Parameter Types 
 	- **Types of parameter** 
-	1. 
-2. Practice List and Map, Set,  
+	1. - Required parameter
+    2. Optional positional parameter `[]`
+    3. Optional named parameter `{}`
+    
+- Default value parameter
+1. Practice List and Map, Set,  
 	- **List Practice Question**
 	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
