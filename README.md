@@ -33,7 +33,8 @@
 	- Loops in Dart: For, While, and Do-While
 	- Lists, Set, Map in Dart
 # Day 4
-1. Practice List and Map, Set,  
+1. Functions in Dart: Nested, Arrow Functions, and Parameter Types 
+2. Practice List and Map, Set,  
 	- **List Practice Question**
 	- **Beginner Level**
 	1. Create a list of 5 fruit names and print them.
