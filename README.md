@@ -52,8 +52,10 @@
 	4. Remove duplicate values from a list.
 # Day 5
 1. What is State.
-2. **Types of State:**
+2. What is State Management
+3. 
+4. **Types of State:**
 	- **Stateless Widget** → UI fix hoti hai (no data change)
 	- **Stateful Widget** → UI data change hoti hai (setState use hota hai)
-3. Stateful Widget Lifecycle and Stateless Widgets Lifecycle
-4. 
+5. Stateful Widget Lifecycle and Stateless Widgets Lifecycle
+6. 
