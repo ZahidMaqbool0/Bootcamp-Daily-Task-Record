@@ -67,6 +67,6 @@
 	- **Null Assertion (`!`)** jab hum ko confirm huu ka variable null nahi ho ga.
 	- **Null-aware Operator (`?.`)** agr value null mill jati ha tu crash nahi ho gi application balky null return karda gi. agr hum Null aware operator use kara ha. **Example** user?.name;  // If user == null → returns null (no crash)
 	- **Null-coalescing Operator (`??`)** as ma hum defulat value set karta ha agr as ko varible ki value null mill jati ha tu ya defult value set kardata ha
-	- late keyword as ma hum varible ko declear karta waqt yaqeen dalwaty ha ka hum as ko zaror valu assign kara ga ya value zaror ay gi..
+	- **late keyword** as ma hum varible ko declear karta waqt yaqeen dalwaty ha ka hum as ko zaror valu assign kara ga ya value zaror ay gi..
 8. late Keyword
 9. num keyword (num Data Type) (combination of int and double) 
