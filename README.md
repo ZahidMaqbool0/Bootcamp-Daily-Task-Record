@@ -50,4 +50,6 @@
 		- print using For In Loop
     3. Update one element in the list (e.g., change the value at index 2).
 	4. Remove duplicate values from a list.
-
+# Day 5
+1. Stateful Widget Lifecycle and Stateless Widgets Lifecycle
+2. 
