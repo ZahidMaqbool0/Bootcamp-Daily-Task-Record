@@ -52,4 +52,6 @@
 	4. Remove duplicate values from a list.
 # Day 5
 1. Stateful Widget Lifecycle and Stateless Widgets Lifecycle
-2. 
+2. **Types:**
+	- **Stateless Widget** → UI fix hoti hai (no data change)
+	- **Stateful Widget** → UI data change hoti hai (setState use hota hai)
