@@ -54,6 +54,7 @@
 1. What is State.
 2. What is State Management
 3. 3 main ways to manage state in Flutter mean (**State Management type** )
+	- Local State => (setinitState())
 4. **Types of Widgets:**
 	- **Stateless Widget** → UI fix hoti hai (no data change)
 	- **Stateful Widget** → UI data change hoti hai (setState use hota hai)
