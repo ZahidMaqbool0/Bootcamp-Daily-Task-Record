@@ -63,7 +63,7 @@
 5. Stateful Widget Lifecycle and Stateless Widgets Lifecycle
 6. StatefulBuilder (same as it work as setState(),  but it is use in one widgets.)
 7. # Null Safety (`?` , `!`, `??` )
-	- **Nullable `?`** Variable me `null` value allow hoti hai. as ko DataType ka sath lihty ha.
-	- `!` jab hum ko confirm huu ka variable null nahi ho ga. liykn jab hum na declare kiya ha as waqt null able
+	- **Nullable (`?`)** Variable me `null` value allow hoti hai. as ko DataType ka sath lihty ha.
+	- **Null Assertion (`!`)** jab hum ko confirm huu ka variable null nahi ho ga. liykn jab hum na declare kiya ha as waqt null able
 8. late Keyword
 9. num keyword (num Data Type) (combination of int and double) 
