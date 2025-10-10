@@ -65,6 +65,6 @@
 7. # Null Safety (`?` , `!`, `??` )
 	- **Nullable (`?`)** Variable me `null` value allow hoti hai. as ko DataType ka sath lihty ha.
 	- **Null Assertion (`!`)** jab hum ko confirm huu ka variable null nahi ho ga.
-	- **Null-aware Operator (`?.`)** user?.name;  // If user == null → returns null (no crash)
+	- **Null-aware Operator (`?.`)** agr value null mill jati ha tu crash nahi ho gi application balky null return karda gi. agr hum user?.name;  // If user == null → returns null (no crash)
 8. late Keyword
 9. num keyword (num Data Type) (combination of int and double) 
