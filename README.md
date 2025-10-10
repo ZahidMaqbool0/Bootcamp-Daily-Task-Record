@@ -61,7 +61,7 @@
 	- **Stateless Widget** → UI fix hoti hai (no data change)
 	- **Stateful Widget** → UI data change hoti hai (setState use hota hai)
 5. Stateful Widget Lifecycle and Stateless Widgets Lifecycle
-6. StatefulBuilder (same as it work as seState(),  but it is use in one widgets.) it is not good 
+6. StatefulBuilder (same as it work as setState(),  but it is use in one widgets.)
 7. # Null Safety (`?` , `!`, )
 8. late Keyword
 9. 
