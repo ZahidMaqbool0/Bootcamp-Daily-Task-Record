@@ -54,7 +54,7 @@
 1. What is State.
 2. What is State Management
 3. 3 main ways to manage state in Flutter mean (**State Management main 3 types** )
-	- Local State => (`setState()`) => Use in Small Data. 
+	- Local State => (`setState()`)
 	- App State => (`Bloc`, `Redux`)
 	- Shared State (`Provider`, `Riverpod`, `Bloc`)
 4. **Types of Widgets:**
