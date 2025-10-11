@@ -81,6 +81,6 @@
 # Day 11 - Saturday - 11 : October : 2025
 1. Exception Handling
 	- `try`, `catch`, `on`, `finally` 
-	- 
+	- Create our own custom Exaptation 
 
 ---
