@@ -81,8 +81,8 @@
 # Day 11 - Saturday - 11 : October : 2025
 1. Exception Handling
 	- `try`, `catch`, => jab hum ko expection ka na pata huu
-	- `try` `on`
-	- `try` `catch` `finally` 
+	- `try` `on` => jab hum ko pata huu ka kon sa error a sakt ha.
+	- `try` `catch` `finally` => ya finally lazmi chly ga agr hum as ko likhy ga.. chy error ay ya na ay.
 	- Create our own custom Exaptation 
 
 ---
