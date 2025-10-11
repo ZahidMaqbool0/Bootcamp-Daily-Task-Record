@@ -2,8 +2,8 @@
 🚀 Daily Bootcamp progress — Learning, Coding, and Growing every day.
 
 # Day 1 - Wednesday - 1 : October : 2025
-# Day 2 - T - 2 : Thusr : 2025
-# Day 3 - Monday - 3 : October : 2025
+# Day 2 - 2 : Thursday : 2025
+# Day 3 - Friday - 3 : October : 2025
 # Day 4 - Monday - 4 : October : 2025
 # Day 5 - Monday - 5 : October : 2025
 1. Obsidian install, and way we use.
