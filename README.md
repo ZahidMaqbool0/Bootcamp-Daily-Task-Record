@@ -77,4 +77,8 @@
 	- **Null-coalescing Operator (`??`)** as ma hum defulat value set karta ha agr as ko varible ki value null mill jati ha tu ya defult value set kardata ha
 	- **late keyword** as ma hum varible ko declear karta waqt yaqeen dalwaty ha ka hum as ko zaror valu assign kara ga ya value zaror ay gi..
 8. num keyword (num Data Type) (combination of int and double) 
+---
 # Day 11 - Saturday - 11 : October : 2025
+
+
+---
