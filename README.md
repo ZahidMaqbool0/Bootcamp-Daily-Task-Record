@@ -79,6 +79,7 @@
 8. num keyword (num Data Type) (combination of int and double) 
 ---
 # Day 11 - Saturday - 11 : October : 2025
-
+1. Exception Handling
+2. 
 
 ---
