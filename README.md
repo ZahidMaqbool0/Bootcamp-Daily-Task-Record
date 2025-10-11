@@ -7,7 +7,8 @@
 # Day 4 - Saturday - 4 : October : 2025
 # Day 5 - Sunday - 5 : October : 2025
 ---
-## JOINING START BOOTCAMP DAY
+# JOINING START BOOTCAMP
+---
 # Day 6 - Monday - 6 : October : 2025
 1. Obsidian install, and way we use.
 2. Cover Markdown language and format.
