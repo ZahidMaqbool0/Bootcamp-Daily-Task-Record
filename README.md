@@ -32,7 +32,7 @@
 	- Conditional Statements in Dart: if, else, else if & Ternary Operator
 	- Loops in Dart: For, While, and Do-While
 	- Lists, Set, Map in Dart
-# Day 4
+# Day 4 - Friday - 9 : October : 2025
 1. Functions in Dart: Nested, Arrow Functions, and Parameter Types 
 	> **Types of parameter** 
 	1. Required parameter / positional parameter 
@@ -50,7 +50,7 @@
 		- print using For In Loop
     3. Update one element in the list (e.g., change the value at index 2).
 	4. Remove duplicate values from a list.
-# Day 5 - Satuad
+# Day 5 - Friday - 9 : October : 2025
 1. What is State.
 2. What is State Management
 3. 3 main ways to manage state in Flutter mean (**State Management main 3 types** )
