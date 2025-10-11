@@ -50,7 +50,7 @@
 		- print using For In Loop
     3. Update one element in the list (e.g., change the value at index 2).
 	4. Remove duplicate values from a list.
-# Day 5
+# Day 5 - Satuad
 1. What is State.
 2. What is State Management
 3. 3 main ways to manage state in Flutter mean (**State Management main 3 types** )
@@ -69,3 +69,4 @@
 	- **Null-coalescing Operator (`??`)** as ma hum defulat value set karta ha agr as ko varible ki value null mill jati ha tu ya defult value set kardata ha
 	- **late keyword** as ma hum varible ko declear karta waqt yaqeen dalwaty ha ka hum as ko zaror valu assign kara ga ya value zaror ay gi..
 8. num keyword (num Data Type) (combination of int and double) 
+# Day6 - Sunday 
