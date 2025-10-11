@@ -1,14 +1,14 @@
 # Bootcamp-Daily-Task-Record
 🚀 Daily Bootcamp progress — Learning, Coding, and Growing every day.
 
-# Day 1
+# Day 1 - Mk - 9 : October : 2025
 1. Obsidian install, and way we use.
 2. Cover Markdown language and format.
 3. Obsidian custom and Community plugin explore
 4. Explore calendar community plugin
 5. Create a one project weekly task management plan 
 6. Git and GitHub Basic Cover
-# Day 2
+# Day 2 - Friday - 9 : October : 2025
 1. Git and GitHub Explore and command cover
 2. Git and GitHub commands learn and perform practical examples
 3. On GitHub one  project uplod using CMD command
@@ -16,7 +16,7 @@
 5. Explore GitHub in obsidian
 6. Connect GitHub obsidian and uplod daily task 
 7. Perform Git, GitHub, Obsidian Git practical example 
-# Day 3
+# Day 3 - Wednesday - 7 : October : 2025
 1. Practice Obsidian Git (Create a new obsidian vault and connect GitHub, and perform git settings automatic)
 2. Dart Overview (Introduction)
 	- Dart setup
@@ -32,7 +32,7 @@
 	- Conditional Statements in Dart: if, else, else if & Ternary Operator
 	- Loops in Dart: For, While, and Do-While
 	- Lists, Set, Map in Dart
-# Day 4 - Friday - 9 : October : 2025
+# Day 4 - Thursday - 8 : October : 2025
 1. Functions in Dart: Nested, Arrow Functions, and Parameter Types 
 	> **Types of parameter** 
 	1. Required parameter / positional parameter 
