@@ -80,7 +80,9 @@
 ---
 # Day 11 - Saturday - 11 : October : 2025
 1. Exception Handling
-	- `try`, `catch`, => jab hum ko expection ka na  `on`, `finally` 
+	- `try`, `catch`, => jab hum ko expection ka na pata huu
+	- `try` `on`
+	- `try` `catch` `finally` 
 	- Create our own custom Exaptation 
 
 ---
