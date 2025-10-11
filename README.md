@@ -1,7 +1,10 @@
 # Bootcamp-Daily-Task-Record
 🚀 Daily Bootcamp progress — Learning, Coding, and Growing every day.
 
-# Day 1 - Mk - 9 : October : 2025
+# Day 1 - Monday - 5 : October : 2025
+# Day 1 - Monday - 5 : October : 2025
+# Day 1 - Monday - 5 : October : 2025
+Day 1 - Monday - 5 : October : 2025
 1. Obsidian install, and way we use.
 2. Cover Markdown language and format.
 3. Obsidian custom and Community plugin explore
