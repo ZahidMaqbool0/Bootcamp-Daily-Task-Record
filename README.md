@@ -6,14 +6,16 @@
 # Day 3 - Friday - 3 : October : 2025
 # Day 4 - Saturday - 4 : October : 2025
 # Day 5 - Sunday - 5 : October : 2025
-# Day 6 - Monday - 4 : October : 2025
+---
+## JOINING START BOOTCAMP DAY
+# Day 6 - Monday - 6 : October : 2025
 1. Obsidian install, and way we use.
 2. Cover Markdown language and format.
 3. Obsidian custom and Community plugin explore
 4. Explore calendar community plugin
 5. Create a one project weekly task management plan 
 6. Git and GitHub Basic Cover
-# Day 2 - Friday - 9 : October : 2025
+# Day 7 - Friday - 9 : October : 2025
 1. Git and GitHub Explore and command cover
 2. Git and GitHub commands learn and perform practical examples
 3. On GitHub one  project uplod using CMD command
