@@ -5,7 +5,8 @@
 # Day 2 - Thursday - 2 : October : 2025
 # Day 3 - Friday - 3 : October : 2025
 # Day 4 - Saturday - 4 : October : 2025
-# Day 5 - Monday - 5 : October : 2025
+# Day 5 - Sunday - 5 : October : 2025
+# Day 6 - Monday - 4 : October : 2025
 1. Obsidian install, and way we use.
 2. Cover Markdown language and format.
 3. Obsidian custom and Community plugin explore
