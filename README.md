@@ -98,11 +98,11 @@
 4. Polymorphism
 	- Method Overriding (as ma hum parent aur child ma same name ka function bna data ha.  jasy hi hum child ka object bna kar as ovreide method ko call karta ha tu wo child wala call kar data ha parent wala nahi karta. as ka ya soluation ha ka hum ko child class ma SUPER kEYWORDS LAGANA PARA GA JO AS KA CHILD MA SAME OSI NAME KA METHTHOD HA AS KA ANDAR SUPER.METHODNAME likhn para ga) same as it variable ka zariya bi kar sakty ha parent aur child ma same name ka varble bna kar un ko accecc kar ksakta ha.
 	- Method Overloading
-5. Abstract (Data Hide kARTA )
+5. Abstract (Data Hide Karta Ha)
 	- abstract classes ka hum object nahi bna sakty
 	- abstract class ma parent jo hota ha as ma hum method ko declare karta ha, phir as ko child ma ovride karna bi zarir hota ha
 	- aur jo method simipe hota ha wo bi bna sakty ha
-- Interface 
+6. Interface (Rule set karta ha)
 	- dart ma interface name ka keywords nahi hota
 	- agr hum na kisi class ko interface ma convert karna ha tu as ko inharintace ki tarh parent child ka concept use ho gaa.. 
 	- bass difrence itna sa ha ka hum inheritance ma **extend** keyword use karta ha liykn jo interface ha as ma hum na **implements**  ka keywords use karna ota ha.
