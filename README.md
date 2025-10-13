@@ -128,4 +128,5 @@
 	- List
 	- Set (as ma duplication nahi ho skti, aur as ma indexing nahi hoti. agr as ko acces karna ha tu loop ka use kar ka karna parta ha)
 	- Map (as ko hum Hash ya dictionary bi kahty ha).
+	11. Mixin ()
  
