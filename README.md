@@ -127,4 +127,5 @@
 10. Collection
 	- List
 	- Set
+	- Map
 	- 
