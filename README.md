@@ -113,3 +113,5 @@
     - Child class ko **har method implement karna zaroori hota hai**.
     - Interface me **implementation nahi hoti**, sirf **structure (rules)** hotay hain.
 7. Static Variable And Static Method
+	- agr hum static variable aur funcrtion bna da as ko hum object ka zariya call nahi kar sakty.
+	- 
