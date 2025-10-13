@@ -115,4 +115,4 @@
 7. Static Variable And Static Method
 	- agr hum static variable aur funcrtion bna da as ko hum object ka zariya call nahi kar sakty.
 	- agr access karna ha simple class ka name likh kar dot laga ka access kar sakty ha.
-	- 
+	- as ka maqsad ya fada ya hota ha ka as ko 1 bar memeo
