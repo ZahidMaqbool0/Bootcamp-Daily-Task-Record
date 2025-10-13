@@ -112,3 +112,4 @@
     - Jab aap `implements` use karte ho, tab class ko **interface ki tarah treat** kiya jata hai.
     - Child class ko **har method implement karna zaroori hota hai**.
     - Interface me **implementation nahi hoti**, sirf **structure (rules)** hotay hain.
+7. Static Variable And Static Method
