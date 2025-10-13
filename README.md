@@ -123,4 +123,5 @@
 8. Lambda Function Or Anonymous Function ya Name ka bagr wala function, ya without name faction
 9. Higher Order Function
 	- Higher Order Function ya hota ha ka koe function ha wo function hi ruuren kar ray ha
+	- ya koe function ha wo as a parameter bi function la ray
 	- 
