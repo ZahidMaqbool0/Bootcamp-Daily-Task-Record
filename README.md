@@ -96,3 +96,6 @@
 	2.  Named constrictor
 3. inheritance
 4. Polymorphism
+	- Method Overriding
+	- Method Overloading
+
