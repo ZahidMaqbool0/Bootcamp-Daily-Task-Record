@@ -94,4 +94,5 @@
 	- **Constrictor Types** 
 	1. default constrictor
 	2.  Named constrictor
-3. inherit
+3. inheritance
+4. 
