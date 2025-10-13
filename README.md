@@ -83,7 +83,7 @@
 	- `try`, `catch`, => jab hum ko expection ka na pata huu
 	- `try` `on` => jab hum ko pata huu ka kon sa error a sakt ha.
 	- `try` `catch` `finally` => ya finally lazmi chly ga agr hum as ko likhy ga.. chy error ay ya na ay.
-	- Create our own custom Exaptation 
+	- **Create our own custom Exaptation** 
 
 ---
 # Day 12 - Sunday - 12 : October : 2025
