@@ -102,4 +102,5 @@
 	- abstract classes ka hum object nahi bna sakty aur as ma sirf function ko declare karat ha aur phir as ko apni child class ma use kar sakty ha as abstract call ka function ko.
 - Interface 
 	- dart ma interface name ka keywords nahi hota
-	- agr hum na kisi class ko interface ma convert karna ha tu as ko inharintace ki tarh parent ch
+	- agr hum na kisi class ko interface ma convert karna ha tu as ko inharintace ki tarh parent child ka concept use ho gaa.. 
+	- bass difrence itna sa ha ka hum inherantance ma  
