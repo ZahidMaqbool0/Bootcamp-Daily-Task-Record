@@ -124,4 +124,7 @@
 9. Higher Order Function
 	- Higher Order Function ya hota ha ka koe function ha wo function hi ruuren kar ray ha
 	- ya koe function ha wo as a parameter bi function la ray
+10. Collection
+	- List
+	- Set
 	- 
