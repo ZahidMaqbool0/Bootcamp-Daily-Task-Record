@@ -118,4 +118,5 @@
 	- as ka maqsad ya fada ya hota ha ka as ko 1 bar memeory allcate hoti ha, jitni bar marzi call kari ja. memary bchat ha. static method aur function
 	- stic method ka andar hum dosra simple method call nahi kar sakty
 	- liykn simple method ka andar hu static call kar sakty ha.
+	- JAB class ko extends kar la tu jo parent ma static variable aur function hoty ha wo extends nahi hoty but access kar sakty ha class ka name use kar ka.
 	- 
