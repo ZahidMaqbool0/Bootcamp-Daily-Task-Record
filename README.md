@@ -133,5 +133,5 @@
 	- Mixin as ki help sa hum multi inheritance kar saktyt ha
 	- multi inhertance ka matlb 1 sath 2 class ko extends karan **Examele**: class A extends classB, classD (dart as trah comma laga kar 2 classs ko inhertance nahi karna data as ko karna ka liy hum mixin ka use karta ha)
 	- class keywords ki jaga mixin ka use karna ha.  aur jab as ko extends karna ha tab as coma ki jaga **with** keyword laga dana ha.
-	- 
+
  
