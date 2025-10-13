@@ -96,6 +96,6 @@
 	2.  Named constrictor
 3. inheritance
 4. Polymorphism
-	- Method Overriding (as ma hum parent aur child ma same name )
+	- Method Overriding (as ma hum parent aur child ma same name ka function bna data ha.  jasy hi hum child ka object bna kar as ovreide method ko call karta ha tu wo child wala call kar data ha parent wala nahi karta. as ka ya soluation ha ka hum ko child class ma)
 	- Method Overloading
 
