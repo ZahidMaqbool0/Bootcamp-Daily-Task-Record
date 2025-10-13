@@ -126,6 +126,6 @@
 	- ya koe function ha wo as a parameter bi function la ray
 10. Collection
 	- List
-	- Set (as ma duplication nahi ho skti)
+	- Set (as ma duplication nahi ho skti, aur as ma indexing nahi hoti. agr as ko acces karna ha tu loop ka use kar ka karna parta ha)
 	- Map 
 	- 
