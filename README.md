@@ -106,4 +106,7 @@
 	- bass difrence itna sa ha ka hum inheritance ma **extend** keyword use karta ha liykn jo interface ha as ma hum na **implements**  ka keywords use karna ota ha.
 	- jasy hi hum **implements**  ka keywords lagy ga jo parent ha wo interface ki trah act kara ga. aur cild class ma 1 error ay ga ka jitny bi parent class ma method ha wo sa overide hony chy child class ma.
 	- interface ka jo parent ka method ha in ko child ma overide karwsakty ha liykn print nahi karta ya parnt ka method ma jo code huu. sirf child ma jo overide ho ga wo hi print kara hga.
-	- 
+	- Dart me **`interface` keyword nahi hota**.
+    - Jab aap `implements` use karte ho, tab class ko **interface ki tarah treat** kiya jata hai.
+    - Child class ko **har method implement karna zaroori hota hai**.
+    - Interface me **implementation nahi hoti**, sirf **structure (rules)** hotay hain.
