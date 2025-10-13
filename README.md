@@ -119,4 +119,5 @@
 	- stic method ka andar hum dosra simple method call nahi kar sakty
 	- liykn simple method ka andar hu static call kar sakty ha.
 	- JAB class ko extends kar la tu jo parent ma static variable aur function hoty ha wo extends nahi hoty but access kar sakty ha class ka name use kar ka.
-	- Stati
+	- Static Method aur Variables ko Overide aur ovelod nahi kar sakty.
+	- 
