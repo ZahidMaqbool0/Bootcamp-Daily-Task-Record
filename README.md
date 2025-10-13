@@ -91,6 +91,7 @@
 # Day 13 - Monday - 13 : October : 2025
 1. Class and Object
 2. Constrictor in dart 
-3.Constrictor Types 
-	- default constractor
-	- Named constractor
+	- **Constrictor Types** 
+	1. default constrictor
+	2.  Named constrictor
+3. 
