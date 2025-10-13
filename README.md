@@ -126,6 +126,6 @@
 	- ya koe function ha wo as a parameter bi function la ray
 10. Collection
 	- List
-	- Set
-	- Map
+	- Set (as ma duplication nahi ho skti)
+	- Map 
 	- 
