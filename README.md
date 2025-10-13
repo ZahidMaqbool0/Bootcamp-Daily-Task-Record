@@ -104,4 +104,4 @@
 	- dart ma interface name ka keywords nahi hota
 	- agr hum na kisi class ko interface ma convert karna ha tu as ko inharintace ki tarh parent child ka concept use ho gaa.. 
 	- bass difrence itna sa ha ka hum inheritance ma **extend** keyword use karta ha liykn jo interface ha as ma hum na **implements**  ka keywords use karna ota ha.
-	- 
+	- jasy hi hum **implements**  ka keywords lagy ga jo parent ha wo interface ki trah act kara ga. aur cild class ma 1 error ay ga ka jitny bi parent class
