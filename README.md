@@ -99,5 +99,5 @@
 	- Method Overriding (as ma hum parent aur child ma same name ka function bna data ha.  jasy hi hum child ka object bna kar as ovreide method ko call karta ha tu wo child wala call kar data ha parent wala nahi karta. as ka ya soluation ha ka hum ko child class ma SUPER kEYWORDS LAGANA PARA GA JO AS KA CHILD MA SAME OSI NAME KA METHTHOD HA AS KA ANDAR SUPER.METHODNAME likhn para ga) same as it variable ka zariya bi kar sakty ha parent aur child ma same name ka varble bna kar un ko accecc kar ksakta ha.
 	- Method Overloading
 5. Abstract
-- abstract classes ka hum object nahi bna sakty
+- abstract classes ka hum object nahi bna sakty aur as ma sirf function ko dec
 - 
