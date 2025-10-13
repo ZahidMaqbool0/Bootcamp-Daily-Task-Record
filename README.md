@@ -95,4 +95,4 @@
 	1. default constrictor
 	2.  Named constrictor
 3. inheritance
-4. # Polymorphi
+4. Polymorphism
