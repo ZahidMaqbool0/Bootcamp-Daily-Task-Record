@@ -129,6 +129,8 @@
 	- Set (as ma duplication nahi ho skti, aur as ma indexing nahi hoti. agr as ko acces karna ha tu loop ka use kar ka karna parta ha)
 	- Map (as ko hum Hash ya dictionary bi kahty ha).
 11. Mixin
-	- (dart ma multi inharintace allow nahi ha, as ki help sa hum multi inheritance kar saktyt ha)
+	- dart ma multi inharintace allow nahi ha
+	- Mixin as ki help sa hum multi inheritance kar saktyt ha
+	- multi inhertance ka matlb 1 
 	- 
  
