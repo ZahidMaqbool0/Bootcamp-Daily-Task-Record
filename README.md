@@ -89,3 +89,6 @@
 # Day 12 - Sunday - 12 : October : 2025
 ---
 # Day 13 - Monday - 13 : October : 2025
+1. Class and Object
+2. Constrictor in dart 
+3. 
