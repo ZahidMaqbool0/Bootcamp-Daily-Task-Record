@@ -121,4 +121,6 @@
 	- JAB class ko extends kar la tu jo parent ma static variable aur function hoty ha wo extends nahi hoty but access kar sakty ha class ka name use kar ka.
 	- Static Method aur Variables ko Overide aur ovelod nahi kar sakty.
 8. Lambda Function Or Anonymous Function ya Name ka bagr wala function, ya without name faction
-9. 
+9. Higher Order Function
+	- Higher Order Function ya hota ha ka koe function ha wo function hi ruuren kar ray ha
+	- 
