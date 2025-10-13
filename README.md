@@ -131,6 +131,6 @@
 11. Mixin
 	- dart ma multi inharintace allow nahi ha
 	- Mixin as ki help sa hum multi inheritance kar saktyt ha
-	- multi inhertance ka matlb 1 
+	- multi inhertance ka matlb 1 sath 2 class ko extends karan **Examele**: class A extends classb, classD
 	- 
  
