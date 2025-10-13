@@ -100,5 +100,5 @@
 	- Method Overloading
 5. Abstract
 	- abstract classes ka hum object nahi bna sakty aur as ma sirf function ko declare karat ha aur phir as ko apni child class ma use kar sakty ha as abstract call ka function ko.
-- Interface (Interface name ka koe keywords nahi ha dart ma.,  )
+- Interface 
 - 
