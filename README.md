@@ -144,4 +144,5 @@
 6. **MultiProvider**
 7. **Provider State Management Project**
 	- Create Counter Application
-	- Create a Application Increase and Decrease the Color Opacity using Slider || Using Provider State Mangment
+	- Create a Application Increase and Decrease the Color Opacity using Slider
+	- Add Favourite 
