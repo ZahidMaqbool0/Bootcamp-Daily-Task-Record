@@ -135,11 +135,13 @@
 	- class keywords ki jaga mixin ka use karna ha.  aur jab as ko extends karna ha tab as coma ki jaga **with** keyword laga dana ha.
 # Day 14 - Tuesday - 14 : October : 2025
 1. Provider
-	-  Single Provider Setup 
-	- Multi Provider Setup (Create a Application Increase and Decrease the Color Opacity using Slider || Using Provider State Mangment)
+	- Single Provider Setup 
+	- Multi Provider Setup
 2. **ChangeNotifier** – State manage karne wali base class.
 3. **ChangeNotifierProvider** – ChangeNotifier ko UI se connect karta hai.
 4. **Consumer** – Widget jo provider ka data sunti (listen) aur rebuild hoti hai.
 5. **notifyListeners()** 
 6. **MultiProvider**
-7. Provider State Managment Project
+7. **Provider State Management Project**
+	- Create Counter Application
+	- Create a Application Increase and Decrease the Color Opacity using Slider || Using Provider State Mangment
