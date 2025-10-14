@@ -136,4 +136,5 @@
 # Day 14 - Tuesday - 14 : October : 2025
 1. Provider
 	-  Single Provider Setup
-	- 
+	- Multi Provider Setup
+2. 
