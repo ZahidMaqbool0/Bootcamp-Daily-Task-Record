@@ -137,4 +137,6 @@
 1. Provider
 	-  Single Provider Setup
 	- Multi Provider Setup
-2. 
+2. **ChangeNotifier** – State manage karne wali base class.
+3. **ChangeNotifierProvider** – ChangeNotifier ko UI se connect karta hai.
+4. **Consumer** – Widget jo provider ka data sunti (listen) aur rebuild hoti hai.
