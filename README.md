@@ -135,8 +135,8 @@
 	- class keywords ki jaga mixin ka use karna ha.  aur jab as ko extends karna ha tab as coma ki jaga **with** keyword laga dana ha.
 # Day 14 - Tuesday - 14 : October : 2025
 1. Provider
-	-  Single Provider Setup
-	- Multi Provider Setup
+	-  Single Provider Setup (Create Counter Application || Using Provider State Management)
+	- Multi Provider Setup (Create  )
 2. **ChangeNotifier** – State manage karne wali base class.
 3. **ChangeNotifierProvider** – ChangeNotifier ko UI se connect karta hai.
 4. **Consumer** – Widget jo provider ka data sunti (listen) aur rebuild hoti hai.
