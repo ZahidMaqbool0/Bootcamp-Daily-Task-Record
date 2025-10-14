@@ -135,4 +135,5 @@
 	- class keywords ki jaga mixin ka use karna ha.  aur jab as ko extends karna ha tab as coma ki jaga **with** keyword laga dana ha.
 # Day 14 - Tuesday - 14 : October : 2025
 1. Provider
-	-  
+	-  Single Provider Setup
+	- 
