@@ -136,7 +136,7 @@
 # Day 14 - Tuesday - 14 : October : 2025
 1. Provider
 	-  Single Provider Setup (Create Counter Application || Using Provider State Management)
-	- Multi Provider Setup (Create  )
+	- Multi Provider Setup (Create a Application || increase and decrease the color opcity using  )
 2. **ChangeNotifier** – State manage karne wali base class.
 3. **ChangeNotifierProvider** – ChangeNotifier ko UI se connect karta hai.
 4. **Consumer** – Widget jo provider ka data sunti (listen) aur rebuild hoti hai.
