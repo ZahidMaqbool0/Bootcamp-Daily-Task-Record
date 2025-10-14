@@ -141,4 +141,5 @@
 3. **ChangeNotifierProvider** – ChangeNotifier ko UI se connect karta hai.
 4. **Consumer** – Widget jo provider ka data sunti (listen) aur rebuild hoti hai.
 5. **notifyListeners()** 
-6. Mu
+6. **MultiProvider**
+7. 
