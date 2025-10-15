@@ -146,8 +146,7 @@
 	- Create Counter Application
 	- Create a Application Increase and Decrease the Color Opacity using Slider
 	- Add Favourite Items 
-	- Convert Light and Dark Mode 
 # Day 15 - Wednesday - 15 : October : 2025
 1. Provider Project
-	- Theme Changer
+	- Theme Changer 
 	- 
