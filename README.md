@@ -149,4 +149,4 @@
 # Day 15 - Wednesday - 15 : October : 2025
 1. Provider Project
 	- Theme Changer 
-	- Calculator Design (Change )
+	- Calculator Design (Change Dark and Light Theme)
