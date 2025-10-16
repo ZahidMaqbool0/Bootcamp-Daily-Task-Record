@@ -150,7 +150,7 @@
 1. Provider Project
 	- Theme Changer 
 	- Calculator Design (Change Dark and Light Theme, and Perform Calculation, use custom widgets like Button, use third part Library).
-# Day 16 - Thursday - 15 : October : 2025
+# Day 16 - Thursday - 16 : October : 2025
 1. Provider Project
 	- Mini Game Number Compression
-	- Pervious work complete 
+	- Pervious work complete (Calculator) 
