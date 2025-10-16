@@ -152,4 +152,5 @@
 	- Calculator Design (Change Dark and Light Theme, and Perform Calculation, use custom widgets like Button, use third part Library).
 # Day 16 - Thursday - 15 : October : 2025
 1. Provider Project
-2. 
+	- Mini Game Number Compression
+	- Pervious work complete 
