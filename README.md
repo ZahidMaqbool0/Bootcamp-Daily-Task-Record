@@ -156,9 +156,4 @@
 	- Pervious work complete (Calculator) 
 # Day 17 - Friday - 17 : October : 2025
 1. Provider Project
-	- CRUD Operation
-	- Pervious work complete (Calculator) 
-# Day 18 - Friday - 16 : October : 2025
-1. Provider Project
-	- Mini Game Number Compression
-	- Pervious work complete (Calculator) 
+	- CRUD Operation using Provider State Management
