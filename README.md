@@ -162,5 +162,5 @@
 # Day 19 - Sunday - 19 : October : 2025
 1. Off
 # Day 20 - Sunday - 20 : October : 2025
-1. Dart Concept Rewize
-2. Opp Concept Rewis
+1. Dart Concept Revised
+2. OOP Concept Revised
