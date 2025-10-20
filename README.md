@@ -158,7 +158,9 @@
 1. Provider Project
 	- CRUD Operation using Provider State Management
 # Day 18 - Saturday - 18 : October : 2025
-1. Provider Project
-	- CRUD Operation using Provider State Management
+1. Off
 # Day 19 - Sunday - 19 : October : 2025
-1. O
+1. Off
+# Day 20 - Sunday - 20 : October : 2025
+1. Dart Concept Rewize
+2. Opp Concept Rewis
