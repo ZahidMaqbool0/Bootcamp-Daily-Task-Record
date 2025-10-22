@@ -161,8 +161,14 @@
 1. Off
 # Day 19 - Sunday - 19 : October : 2025
 1. Off
-# Day 20 - Sunday - 20 : October : 2025
+# Day 20 - Monday - 20 : October : 2025
 1. Dart Concept Revised
+# Day 21 - Tuesday - 2 : October : 2025
+1. OOP Concept Revised
+2. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
+# Day 22 - Wednesday - 2 : October : 2025
+1. OOP Concept Revised
+2. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
 # Day 21 - Sunday - 2 : October : 2025
 1. OOP Concept Revised
-2. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**  
+2. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
