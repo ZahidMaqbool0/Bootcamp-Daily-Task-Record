@@ -169,7 +169,3 @@
 # Day 22 - Wednesday - 2 : October : 2025
 1. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
 2. dart programming problem solving
-# Day 21 - Sunday - 2 : October : 2025
-1. OOP Concept Revised
-2. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
-3. 
