@@ -168,4 +168,4 @@
 2. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
 # Day 22 - Wednesday - 2 : October : 2025
 1. CRUD || Using Provider State Management (Read and Insert Operation) **chatgpt ki help ka bagr**
-2. dart programming problem solving
+2. dart programming problem solving (save code and question on notes)
